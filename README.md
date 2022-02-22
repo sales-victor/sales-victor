@@ -1,10 +1,6 @@
 • 📍 Belo Horizonte - MG 
 
-• 👨🏽‍🎓 Estudando Ciência de dados (ESTÁCIO BH);
-
-• 👨🏽‍💻 Cursando Estatística para ciência de dados e Machine Learning;
-
-• 👨🏽‍💻 Cursando Machine Learning e Data Science com Python;
+• 👨🏽‍🎓 Cursando Sistema da Informação - PUC-MINAS;
 
 • 🦾 Amante de tecnologia e dados;
 
