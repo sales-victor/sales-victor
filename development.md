@@ -106,7 +106,7 @@ Ao clicar no botão **CONTATO** o usuário será direcionado para a página de c
 
 ![Contato PetSearch](img/development/contato-pet-search.jpg)<br>
 
-Clicando no botão **RELATAR UM PROBLEMA**, o usuário será direcionado para um formulário de preenchimento, onde ele poderá descrever o problema encontrado: 
+Clicando no botão **ALGUM PROBLEMA**, o usuário será direcionado para um formulário de preenchimento, onde ele poderá descrever o problema encontrado: 
 
 ![form problema](img/development/problema-anuncio.jpg)<br>
 
