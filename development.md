@@ -1,4 +1,4 @@
-<!-- <div align="justify">  -->
+ <div align="justify">
 
 # Programação de Funcionalidades
 
@@ -141,17 +141,5 @@ A estrutura de dados utilizada é JSON, conforme exemplo a seguir:
         }
 ]
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- </div> -->
+ 
+</div>
