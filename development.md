@@ -50,7 +50,7 @@ A seções relacionadas às ONGs será disponibilizada na versão 2.0 da aplica�
 
 Foi desenvolvido uma barra de navegação do tipo `nav-link` horizontal que contém botões relacionados as páginas da aplicação.
 
-![Nav-link](./development/quero-doar.jpg)<br>
+![Nav-link](img/development/nav-link.jpg)<br>
 
 Além da barra de navegação, foi criado na Homepage os Banners relacionados aos tipos de buscas ou cadastrados que direciona o usuário ao destino desejado ao clicar no botão `Saiba mais`. 
 
