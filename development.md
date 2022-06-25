@@ -1,9 +1,10 @@
-<!-- <div align="justify">  -->
+<div align="justify">
 
 # Programação de Funcionalidades
 
 Nesta seção estão descritos os artefatos e estruturas de dados criados para atender aos requisitos previstos nas <a href="./especification.md">Especificações do Projeto</a>, bem como as instruções para acesso e verificação da implementação. As tecnologias utilizadas se baseiam nas linguagens HTML, CSS e JavaScript.
 
+ ---
 
 ## Cadastros
 
@@ -125,16 +126,4 @@ A estrutura de dados utilizada é JSON, conforme exemplo a seguir:
 ]
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- </div> -->
+</div>
