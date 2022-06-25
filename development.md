@@ -14,22 +14,22 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 
 Para atender aos requisitos RF-001 e RF-002 foi desenvolvido os formulários de preenchimentos para os cadastros dos pets, os formulários são acessados através dos botões diponibilizados nas paginas Pets perdidos `/lost-pets/` ou adoção `/adoption-pets/` .
 
-
+<div align-items="center">
 ![Encontrei um pet](./development/encontrei-um-pet.jpg)
 ![ Form encontrei um pet](./development/formulario-encontrei-pet.jpg) <br>
-
+---
 ![Perdi um pet](./development/perdi-meu-pet.jpg)
 ![Form perfi um pet](./development/formulario-perdi-meu-pet.jpg) <br>
-
+---
 ![Quero doar](./development/quero-doar.jpg)
 ![Quero doar](./development/formulario-pet-para-adocao.jpg)<br>
-
-
+ </div>
+---
  ### Marcação de animais encontrados ou adotados
 - RF-003	Permitir que o usuário marque o animal como "encontrado"
 - RF-004	Permitir que o usuário marque o animal como "adotado"
 
-
+---
  ### Filtro personalizado de pesquisa 
 - RF-005    Disponibilizar funcionalidade que permita pesquisar animais com filtro personalizado
 
@@ -38,31 +38,35 @@ Para atender ao requisito RF-005 foi desenvolvido o filtro de pesquisa de acordo
 ![filtro perdidos](./development/filtro-perdido.jpg)
 ![filtro adoção](./development/filtro-adocao.jpg)<br>
 
-
+---
 ### Seção ONG  
 - RF-006	Disponibilizar funcionalidade que permita pesquisar ONG cadastradas	
 - RF-007    Disponibilizar sessão com dados para doações às ONGs
 
 A seções relacionadas às ONGs será disponibilizada na versão 2.0 da aplicação. 
 
-
+---
 ### Outras funcionalidades.
 
 
 Foi desenvolvido uma barra de navegação do tipo `nav-link` horizontal que contém botões relacionados as páginas da aplicação.
 
 ![Nav-link](./development/nav-link.jpg)<br>
-
+ 
+---
+ 
 Além da barra de navegação, foi criado na Homepage os Banners relacionados aos tipos de buscas ou cadastrados que direciona o usuário ao destino desejado ao clicar no botão `Saiba mais`. 
 
 ![Banner-pet](./development/banner-pet.jpg)
 ![Banner-adoção](./development/banner-adocao.jpg)<br>
 
+---
 Ao clicar nos botões `Saiba mais`, o usuário são direcionados para as páginas abaixo:
 
 ![Page pet](./development/page-pets.jpg)
 ![Page adoção](./development/page-adocao.jpg)<br>
 
+---
 Nas páginas dos Pets perdidos e Adoções, foi desenvolvido um botão que direciona o usuário para a galeria que contém todos os pets cadastrados nas suas respectivas seções `/lost-pets/lost-gallery.html` ou `/adoption-pets/adoption-gallery.html`: 
 
 ![Ver galeria](./development/ver-galeria.jpg)<br>
