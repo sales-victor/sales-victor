@@ -16,7 +16,8 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 Para atender aos requisitos RF-001 e RF-002 foi desenvolvido os formulários de preenchimentos para os cadastros dos pets, os formulários são acessados através dos botões diponibilizados nas paginas Pets perdidos `/lost-pets/` ou adoção `/adoption-pets/` .
 
  
-<center>![Encontrei um pet](./development/encontrei-um-pet.jpg)</center>
+<center> ![Encontrei um pet](./development/encontrei-um-pet.jpg) </center>
+  
 ![ Form encontrei um pet](./development/formulario-encontrei-pet.jpg) <br>
 ---
 ![Perdi um pet](./development/perdi-meu-pet.jpg)
