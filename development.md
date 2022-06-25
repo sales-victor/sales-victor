@@ -16,14 +16,19 @@ Para atender aos requisitos RF-001 e RF-002 foi desenvolvido os formulários de 
 
 ![Encontrei um pet](img/development/encontrei-um-pet.jpg)
 ![ Form encontrei um pet](img/development/formulario-encontrei-pet.jpg) <br>
+
 ---
+
 ![Perdi um pet](img/development/perdi-meu-pet.jpg)
 ![Form perfi um pet](img/development/formulario-perdi-meu-pet.jpg) <br>
+
 ---
+
 ![Quero doar](img/development/quero-doar.jpg)
 ![Quero doar](img/development/formulario-pet-para-adocao.jpg)<br>
 
 ---
+
  ## Marcação de animais encontrados ou adotados
 
  ### Requisitos: 
