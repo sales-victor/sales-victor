@@ -47,7 +47,13 @@ Você pode me encontrar por:
 <a href="https://www.linkedin.com/in/sales-victor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<h3>Estatísticas</h3>
 
+<div>
+<a href="https://github.com/sales-victor">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sales-victor&layout=compact&langs_count=7&theme=light"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sales-victor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
