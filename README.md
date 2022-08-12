@@ -1,13 +1,24 @@
-• 📍 Belo Horizonte - MG 
+<h2>Olá 👋</h2>
 
-• 👨🏽‍🎓 Cursando Sistema da Informação - PUC-MINAS;
+Atualmente cursando Sistemas de Informação na <a href="https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Sistemas-de-Informacao-Bacharelado.aspx">Pontifícia Universidade Católica de Minas Gerais</a> e estagiando como Desenvolvedor Fullstack na <a href="https://www.prodemge.gov.br">Prodemge</a>.
 
-• 🦾 Amante de tecnologia e dados;
+Tecnologias, frameworks e linguagens de trabalho: <br>
+- Front-end: <br>
+   - AngularJS
+   - TypeScript 
+   - Bootstrap
+   - HTML
+   - SCSS 
+   - NODE.JS
+- Back-end: <br>
+   - Java 
+   - Spring Boot
+- Banco de Dados: <br>
+   - SQL Developer (oracle)
 
-• 🏍 Meu hobby são viagens de moto e musculação. 
+Além disso, estou buscando conhecimento relacionados a área de dados, IA e Engenharia de Dados. 
 
-
-<!---
-sales-victor/sales-victor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Você pode me encontrar por: 
+  - <a href="https://www.linkedin.com/in/sales-victor/">LinkdIn</a>
+  - E-mail: salesvictor@icloud.com
+          
