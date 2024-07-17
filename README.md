@@ -1,6 +1,6 @@
 <h2>Olá 👋</h2>
 
-Atualmente cursando Sistemas de Informação na <a href="https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Sistemas-de-Informacao-Bacharelado.aspx">Pontifícia Universidade Católica de Minas Gerais</a> e estagiando como Desenvolvedor Fullstack na <a href="https://www.prodemge.gov.br">Prodemge</a>.
+Atualmente cursando Sistemas de Informação na <a href="https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Sistemas-de-Informacao-Bacharelado.aspx">Pontifícia Universidade Católica de Minas Gerais</a> e atuando como Desenvolvedor Fullstack na <a href="https://www.prodemge.gov.br">Prodemge</a>.
 
 Tecnologias, frameworks e linguagens de trabalho: <br>
 - Front-end: <br>
