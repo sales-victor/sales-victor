@@ -52,7 +52,7 @@ Você pode me encontrar por:
 <div>
 <a href="https://github.com/sales-victor">
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sales-victor&layout=compact&langs_count=7&theme=light"/> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sales-victor)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sales-victor)(https://github.com/anuraghazra/github-readme-stats)
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sales-victor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/> -->
 </div>
 
