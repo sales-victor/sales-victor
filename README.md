@@ -46,16 +46,16 @@ Você pode me encontrar por:
 <a href="salesvictor@icloud.com" target="_blank"><img src="https://camo.githubusercontent.com/7a69bd5d09a95f693fb09fa498af196ea6fceecf63a70a7a37d17d5de5c97d17/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d69436c6f756426636f6c6f723d333639334633266c6f676f3d69436c6f7564266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sales-victor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<!--
 <h3>Estatísticas</h3>
 
 <div>
 <a href="https://github.com/sales-victor">
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sales-victor&layout=compact&langs_count=7&theme=light"/> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sales-victor)(https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sales-victor)(https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sales-victor&show_icons=true&theme=ligth&include_all_commits=true&count_private=true"/> -->
 </div>
-
+-->
 
 
 
